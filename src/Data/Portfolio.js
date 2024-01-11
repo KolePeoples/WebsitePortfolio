@@ -1,6 +1,6 @@
 export default [
     {
-        title: "Workout App",
+        title: "Weekly Workouts",
         imgUrl: "",
         stack: ['Tailwind', 'React', 'Vite'],
         link: "https://youtube.com",
