@@ -1,9 +1,9 @@
 export default [
     {
         title: "Weekly Workouts",
-        imgUrl: "",
+        imgUrl: "src/assets/wwbackground.png",
         stack: ['Tailwind', 'React', 'Vite'],
-        link: "https://youtube.com",
+        link: "https://github.com/KolePeoples/WeeklyWorkoutsFinal/tree/main/WeeklyWorkouts%20App",
     },
     {
         title: "Developer Portfolio",
