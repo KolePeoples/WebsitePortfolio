@@ -1,7 +1,7 @@
 export default [
     {
         title: "Weekly Workouts",
-        imgUrl: "src/assets/wwbackground.png",
+        imgUrl: "/assets/wwbackground.png",
         stack: ['Java', 'XML', 'Android Studio'],
         link: "https://github.com/KolePeoples/WeeklyWorkoutsFinal/tree/main/WeeklyWorkouts%20App",
     },
