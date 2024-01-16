@@ -1,4 +1,5 @@
 import React from "react";
+import Title from "./Title";        
 
 function Contact()
 {
@@ -10,6 +11,8 @@ function Contact()
                 method="POST"
                 className="flex flex-col w-full md:w-7/12"
                 >
+                    <Title>Contact</Title>
+
                     <input 
                     type="text" 
                     name="name"
@@ -43,4 +46,4 @@ function Contact()
     )
 }
 //Go to getform.io. Create an account, and then get a custom slug and paste it on line #9
-export default Contact
+export default Contact;
