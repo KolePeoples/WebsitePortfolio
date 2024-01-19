@@ -1,7 +1,7 @@
 export default [
     {
         title: "Developer Portfolio",
-        imgUrl: "",
+        imgUrl: "/assets/PortfolioScreenShot.png",
         stack: ['Tailwind', 'React', 'Vite'],
         link: "https://youtube.com",
     },
@@ -13,7 +13,7 @@ export default [
     },
     {
         title: "Games",
-        imgUrl: "",
+        imgUrl: "/assets/maxresdefault.png",
         stack: ['HTML', 'React', 'Vite'],
         link: "https://youtube.com",
     },
