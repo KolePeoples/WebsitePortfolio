@@ -8,8 +8,10 @@ function Intro()
         pb-6">
             <h1 className="text-4xl md: text-7xl dark:text-white mb-1 md: mb-3 font-bold">Kole Peoples</h1>
             <p className="text-base md:text-xl mb-3 font-medium">Software and Mobile App Developer</p>
-            <p className="text-sm max-w-xl mb-6 font-bold">This is my Bio! I will add more once I have 
-            all of the other components completed</p>
+            <p className="text-sm max-w-xl mb-6 font-bold">I built this website to highlight some of my projects as a developer. 
+                Everything on the site can also be found on my <a href="https://github.com/KolePeoples" target="_blank"
+                 className="text-cyan-600 hover:underline underline-offset-2 decoration-2 decoration-cyan-600" rel="noopener noreferrer">GitHub page</a>. 
+                </p>
         </div>
     )
 }
