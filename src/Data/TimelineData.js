@@ -3,7 +3,7 @@ export default [
     year: '2024',
     title: 'Developer Portfolio',
     duration: '2 months',
-    details: "This is the website you're currently on! I built this website to supplement my GitHub portfolio. It contains personal projects, programs I developed in college, and personal projects I work on in my own time."
+    details: "This is the website you're currently on! I built this website to supplement my GitHub portfolio. Here you'll mostly find passion projects, but I have also included programs that I started in college and in coding bootcamps that I thought were fun or interesting."
     },
    
     {

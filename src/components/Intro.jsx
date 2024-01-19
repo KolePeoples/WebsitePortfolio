@@ -18,5 +18,4 @@ function Intro()
         </div>
     )
 }
-//  style={{width: 400, height: 400, borderRadius: 400/ 2}}
 export default Intro;
