@@ -14,9 +14,9 @@ export default [
     },
     
     {
-    year: 'Today',
-    title: 'Dot Net Developer',
-    duration: '1 year',
-    details: 'This is where the details will go for each entry'
+    year: '2020',
+    title: 'Lights On!',
+    duration: '2 months',
+    details: 'This is my implementation of the classic game: Lights Out. My implementation is a smaller 3x3 square than the original 5x5. The goal of the game is to turn all the lights on rather than off. Clicking on a cell toggles that cell and each of its immediate neighbors. Can you solve it in the least amount of clicks?'
     },
 ]
