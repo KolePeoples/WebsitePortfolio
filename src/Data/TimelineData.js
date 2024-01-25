@@ -19,4 +19,10 @@ export default [
     duration: '2 months',
     details: 'This is my implementation of the classic game: Lights Out. My implementation is a smaller 3x3 square than the original 5x5. The goal of the game is to turn all the lights on rather than off. Clicking on a cell toggles that cell and each of its immediate neighbors. Can you solve it in the least amount of clicks?'
     },
+    {
+        year: '2019',
+        title: 'Monster Riddles',
+        duration: '2 years',
+        details: 'This is a text adventure project that I made while at ACU. The initial game was just a series of riddles you had to solve to escape a group of monsters. Since then, I have made some changes to make the game a little more interactive and develop an engaging, tongue-in-cheek narrative.'
+    },
 ]
