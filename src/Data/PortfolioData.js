@@ -14,7 +14,7 @@ export default [
     {
         title: "Games",
         imgUrl: "/assets/maxresdefault.png",
-        stack: ['HTML', 'React', 'Vite'],
+        stack: ['C++', 'Java', 'Swift'],
         link: "https://youtube.com",
     },
 ]
