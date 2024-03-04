@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     name: Build and Push
     steps:
-      - name: Set up Node.js 20
+      - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '20'
+          node-version: '20' # or '20'
 
       - name: Checkout code
         uses: actions/checkout@v2
