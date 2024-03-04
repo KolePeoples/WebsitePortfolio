@@ -10,21 +10,25 @@ jobs:
     runs-on: ubuntu-latest
     name: Build and Push
     steps:
-      - name: git-checkout
+      - name: Set up Node.js 20
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Checkout code
         uses: actions/checkout@v2
 
       - name: Install all dependencies
         run: npm install
 
       - name: Build
-        run: npm run build #Build command for project
+        run: npm run build # Build command for project
 
       - name: Push
         uses: s0/git-publish-subdir-action@develop
         env: 
           REPO: self
-          BRANCH: build #Branch name to push assets
+          BRANCH: build # Branch name to push assets
           FOLDER: dist
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           MESSAGE: "Build ({sha}) {msg}"
-          
