@@ -3,7 +3,7 @@ export default [
         title: "Developer Portfolio",
         imgUrl: "/assets/PortfolioScreenShot.png",
         stack: ['Tailwind', 'React', 'Vite'],
-        link: "https://youtube.com",
+        link: "https://kolepeoples.com",
     },
     {
         title: "Weekly Workouts",
@@ -15,6 +15,6 @@ export default [
         title: "Games",
         imgUrl: "/assets/maxresdefault.png",
         stack: ['C++', 'Java', 'Swift'],
-        link: "https://youtube.com",
+        link: "https://github.com/KolePeoples/LightsOutGame",
     },
 ]
