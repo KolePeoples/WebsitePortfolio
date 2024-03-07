@@ -25,4 +25,6 @@ export default [
         duration: '2 years',
         details: 'This is a text adventure project that I made while at ACU. The initial game was just a series of riddles you had to solve to escape a group of monsters. Since then, I have made some changes to make the game a little more interactive and develop an engaging, tongue-in-cheek narrative.'
     },
+
+    //Add links to click here.
 ]
