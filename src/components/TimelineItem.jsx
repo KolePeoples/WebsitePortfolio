@@ -9,7 +9,6 @@ function TimelineItem({year, title, duration, details, link}) //Made changes her
                     <span className="inline-block px-2 py-1 font-semibold text-white bg-stone-900 dark:bg-gradient-to-r from-yellow-500 to-pink-500 rounded-md">
                         {year}
                     </span>
-                    <a href={link} target="_blank" rel="noopener noreferrer" className="block border-2 border-stone-900 dark:border-white rounded-md overflow-hidden"></a>
                     <h3 className="text-lg font-semibold text-stone-900 dark:text-white">
                         {title}
                     </h3>
