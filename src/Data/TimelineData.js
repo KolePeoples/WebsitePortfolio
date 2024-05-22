@@ -4,7 +4,7 @@ export default [
     title: 'Developer Portfolio',
     duration: '2 months',
     details: "This is the website you're currently on! I built this website to supplement my GitHub portfolio. Here you'll mostly find passion projects, but I have also included programs that I started in college and in coding bootcamps that I thought were fun or interesting.",
-    link:'https://kolepeoples.com/'
+    link:'https://kolepeoples.com/' //Made changes here for link adding 05/22/24
     },
    
     {
