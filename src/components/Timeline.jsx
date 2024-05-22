@@ -15,6 +15,7 @@ function Timeline()
                         title = {item.title}
                         duration = {item.duration}
                         details = {item.details}
+                        link = {item.link} //Changes started here 05/22/24
                     />
                 ))}
             </div>
