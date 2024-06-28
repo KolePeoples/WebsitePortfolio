@@ -1,6 +1,6 @@
 import React from "react";
 
-function TimelineItem({year, title, duration, details}) //Made changes here 06/19/24
+function TimelineItem({year, title, duration, details}) //Made changes here 06/28/24
 {
     return (
         <ol className="flex flex-col md:flex-row relative-border-l border-stone-200">
